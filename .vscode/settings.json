@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a2275c10-730e-48f7-9307-b06fc830b53e/resourceGroups/abc-sonogram-api-rg/providers/Microsoft.Web/sites/abc-sonogram-api",
+    "appService.deploySubpath": "."
+}
